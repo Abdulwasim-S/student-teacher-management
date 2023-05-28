@@ -55,7 +55,7 @@ function App() {
         value={{ students, setStudents, teachers, setTeachers }}
       >
         <Routes>
-          <Route exact path={'/'||'*'} element={<Welcome />} />
+          <Route exact path="/" element={<Welcome />} />
           <Route path="/" element={<Students />}>
             <Route exact path="studentsList" element={<StudentsList />} />
             <Route path="addStudent" element={<AddStudents />} />
@@ -70,6 +70,7 @@ function App() {
               <Route path="/updateTeacher/:id" element={<UpdateTeachers />} />
             )}
           </Route>
+          <Route path='*' element={<Welcome/>}/>
         </Routes>
       </StudentContext.Provider>
     </div>
