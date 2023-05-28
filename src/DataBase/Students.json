@@ -1,0 +1,86 @@
+[
+    {
+     "name": "Kumar",
+     "gender": "male",
+     "batch": "B45WD",
+     "qualification": "B.Com",
+     "id": "0"
+    },
+    {
+     "name": "RajeshKumar",
+     "gender": "male",
+     "batch": "B45WD",
+     "qualification": "BSC",
+     "id": "1"
+    },
+    {
+     "name": "Anitha",
+     "gender": "female",
+     "batch": "B45WD",
+     "qualification": "BSC",
+     "id": "2"
+    },
+    {
+     "name": "Abdulwasim",
+     "gender": "male",
+     "batch": "B45WD",
+     "qualification": "B.E-Mech",
+     "id": "3"
+    },
+    {
+     "name": "Anirutha",
+     "gender": "female",
+     "batch": "B45WD",
+     "qualification": "BCA",
+     "id": "4"
+    },
+    {
+     "name": "Kavin",
+     "gender": "male",
+     "batch": "B45WD",
+     "qualification": "B.E-Mech",
+     "id": "5"
+    },
+    {
+     "name": "Wasim",
+     "batch": "B45WD",
+     "gender": "Male",
+     "qualification": "B.E.MECH",
+     "id": "6"
+    },
+    {
+     "name": "Shadow",
+     "batch": "B45WD",
+     "gender": "Male",
+     "qualification": "BE-MECH",
+     "id": "7"
+    },
+    {
+     "name": "Eternal",
+     "batch": "B45WD",
+     "gender": "Female",
+     "qualification": "BE-Bio-Medical",
+     "id": "8"
+    },
+    {
+     "name": "Madara Uchiha",
+     "batch": "First Great Ninja war",
+     "gender": "Male",
+     "qualification": "GOAT",
+     "id": "9"
+    },
+    {
+     "name": "Might Guy",
+     "batch": "Team 3",
+     "gender": "Male",
+     "qualification": "GOAT",
+     "id": "10"
+    },
+    {
+     "name": "Kakashi Hatake",
+     "batch": "Team 7",
+     "gender": "Male",
+     "qualification": "6th Hokage",
+     "id": "11"
+    }
+   ]
