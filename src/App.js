@@ -70,6 +70,7 @@ function App() {
               <Route path="/updateTeacher/:id" element={<UpdateTeachers />} />
             )}
           </Route>
+          <Route path='*' element={<Welcome/>}/>
         </Routes>
       </StudentContext.Provider>
     </div>
